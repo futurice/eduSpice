@@ -1,6 +1,6 @@
 # EduSpice
 
-This repository is for education ideas that come up within [Spice program](spiceprogram.org). Below you can find instructions on how to contribute and use the materials.
+This repository is for education ideas that come up within [Spice program](http://spiceprogram.org). Below you can find instructions on how to contribute and use the materials.
 
 These materials are licensed under one of these licenses: [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) tai [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find license in every material.
 
