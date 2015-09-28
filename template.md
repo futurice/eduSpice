@@ -46,7 +46,7 @@ If you have images, other material or you want to link so other content add them
 
 ---
 ### License
-Choose one of these [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) tai [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Choose one of these [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 
