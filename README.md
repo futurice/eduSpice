@@ -16,7 +16,7 @@ If you have any questions about these materials or this repository please contac
 
 1. Meet with a colleague
 2. Come up with coding exercise that could be done in school
-3. Document your idea to ready made [template]()
+3. Copy ready made [template](https://github.com/futurice/eduSpice/blob/master/template.md) and document your idea by filling the template
 4. Make pull request here
 5. Report hours
 
