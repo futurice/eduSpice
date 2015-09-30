@@ -1,6 +1,6 @@
 # Title (change)
 
-##### Keywords          
+##### Keywords
 
 ```
 List keywords and concepts here. Separate them with comma.
@@ -8,13 +8,13 @@ List keywords and concepts here. Separate them with comma.
 ##### Related to Curriculum
 
 ```
-List the topics on curriculum this is related to. You can see our pre defined topic list [here]. If uncertain use your best guess. Separate them with comma.
+List the topics on curriculum this is related to. You can see our pre defined [topic list](https://github.com/futurice/eduSpice/blob/master/topic_list.md). If uncertain use your best guess. Separate them with comma.
 ```
 
 ##### Prime Target Group
 
 ```
-For elementary or secondary school? Or for someone else? Please use your best guess if you don't know. 
+For elementary or secondary school? Or for someone else? Please use your best guess if you don't know.
 ```
 
 ##### Required Equipment and Material
@@ -38,7 +38,7 @@ Describe here what kind of preparations are needed from teacher if any. You can 
 
 ### Script
 Describe here what will happen step by step. Use sub headers if needed. Try to be as exact as possible. It's easier for the user to drop some steps than invent new ones.
-  
+
 ---
 ### Required materials or links
 
