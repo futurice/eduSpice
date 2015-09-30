@@ -76,7 +76,7 @@ In this exercise kids will learn to give exact orders while moving each others t
 
 ---
 ### License
-Choose one of these [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
 
