@@ -31,7 +31,7 @@ Feel free to contribute and make pull request.
 
 All material is listed here. Please add link to your exercise also to this list.
 
-[Example](https://github.com/futurice/eduSpice/blob/master/example.md)
+[Example](https://github.com/futurice/eduSpice/blob/master/example/example.md)
 
 
 
