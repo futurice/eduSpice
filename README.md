@@ -7,7 +7,7 @@ These materials are licensed under one of these licenses: [CC0](https://creative
 If you have any questions about these materials or this repository please contact tiina.romu (at) futurice.com.
 
 ---
- 
+
 # Instructions
 
 ## Short version
@@ -16,16 +16,23 @@ If you have any questions about these materials or this repository please contac
 
 1. Meet with a colleague
 2. Come up with coding exercise that could be done in school
-3. Copy ready made [template](https://github.com/futurice/eduSpice/blob/master/template.md) and document your idea by filling the template
-4. Make pull request here
-5. Report hours
+3. Copy ready made [template](https://github.com/futurice/eduSpice/blob/master/template.md)
+4. Document your idea by filling the template
+5. Make pull request
+6. Report hours
 
 #### For others
 
 Feel free to contribute and make pull request.
 
-## Longer version for Futurice employees
+---
 
-WIP
+# Materials
+
+All material is listed here. Please add link to your exercise also to this list.
+
+[Example](https://github.com/futurice/eduSpice/blob/master/example.md)
+
+
 
 
