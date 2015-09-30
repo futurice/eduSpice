@@ -32,11 +32,13 @@ In this exercise kids will learn to give exact orders while moving each others t
 ---
 
 ### Preparations
+
   * Print the [empty grid](https://github.com/futurice/eduSpice/blob/master/example/empty_grid.md) for everybody
   * Print the [example grid](https://github.com/futurice/eduSpice/blob/master/example/example_grid.md) for everybody
   * Prepare grid in the class room floor with tape or string
   * Choose obstacles (they can be what ever that fit to the square of grid)
   * Plan few different grids with obstacles
+
 ---
 
 ### Script
