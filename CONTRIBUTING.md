@@ -9,7 +9,7 @@
 5. In your own version (fork) of the project in GitHub, copy the SSH clone URL
 6. In your terminal, in suitable directory: git clone git@github.com:[your username]/eduSpice.git
 
--- You now have the project locally and you can do the changes or additions
+    -- You now have the project locally and you can do the changes or additions
 
 7. When done, add the new or changed files for commit: git add template.md
 8. Commit your changes with a brief description: git commit -m “brief description here”
