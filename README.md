@@ -4,7 +4,7 @@ This repository is for education ideas that come up within [Spice program](http:
 
 These materials are licensed under one of these licenses: [CC0](https://creativecommons.org/publicdomain/zero/1.0/), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) tai [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can find license in every material.
 
-If you have any questions about these materials or this repository please contact tiina.romu (at) futurice.com.
+If you are using this material for the first time and want to contribute, please see [CONTRIBUTING.md](https://github.com/futurice/eduSpice/blob/master/CONTRIBUTING.md) for more information. Don't hesitate to ask, if you have any questions about these materials or this repository. In this case contact tiina.romu (at) futurice.com.
 
 ---
 
