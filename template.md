@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: exercise
 title: Title of your exercise (change)
 description: Short Description of exercise (change)
 ---

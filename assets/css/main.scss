@@ -17,7 +17,7 @@ h1, h2, h3 {
     text-align: center;
 }
 
-h1 {
+.h1-header {
     font-size: 5.4em;
 }
 
@@ -125,3 +125,29 @@ border-left-color: #d78227;
   color: #d78227;
   border-left-color: #d78227;
 }
+
+//
+// Exercise specific styles
+//
+
+.exercise-container {
+    padding: 40px 30px;
+
+    hr {
+        display: none;
+    }
+
+    h3 {
+        color: #d78227;
+        font-weight: 300;
+        font-size: 2em;
+        text-align: left;
+    }
+
+    h5 {
+        color: #d78227;
+        font-weight: 300;
+        font-size: 1.5em;
+    }
+}
+

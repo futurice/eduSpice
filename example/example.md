@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: exercise
 title: Path finding exercise
 description: In this exercise kids will learn to give exact orders while moving each others through the grid.
 ---
