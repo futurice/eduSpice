@@ -1,0 +1,56 @@
+---
+layout: default
+title: EduSpice
+---
+
+<section class="first">
+  <div class="text-container">
+    <h1>EduSpice exercises</h1>
+    <p class="info-text">
+      This page is for education ideas that come up within <a href="http://spiceprogram.org">Spice program</a>.<br> These materials are licensed under one of these licenses: <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> or <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. You can find license in every material.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container content">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+          <p class="quote">"Instruction does much, but encouragement everything."<br> —Goethe</p>
+      </div>
+    </div>
+  <div class="row">
+  {% for exercise in site.html_pages %}
+    {% if {{exercise.url}} != "/index.html" and {{exercise.url}} != "/template.html" %}
+        <div class="col-sm-8 col-sm-offset-2" style="z-index: 1; background-color: #f3f3f4;">
+            <div class="row boxed chilihover">
+                <a href="{{exercise.url}}">
+                    <div class="col-sm-10 arrow-box">
+                        <h3>{{exercise.title}}</h3>
+                        <p>{{exercise.description}}</p>
+                    </div>
+                    <div class="col-sm-2 hidden-xs">
+                        <div class="arrow-right"></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+  </div>
+</section>
+
+<section>
+  <div class="container content" style="padding-top: 100px;">
+      <div class="row text-center">
+        <div class="col-md-8 col-md-offset-2">
+            <a href="http://chilicorn.org">
+              <img class="padded-img page-img" src="/assets/img/chilicorn_no_text-256.png" alt="The official Chilicorn">
+            </a>
+        </div>
+      </div>
+    </div>
+  <h2>Want to contribute?</h2>
+  <p class="info-text">All these materials are stored in <a href="https://github.com/futurice/eduSpice">Github repository named EduSpice.</a> </p>
+</sections>

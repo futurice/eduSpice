@@ -1,3 +1,9 @@
+---
+layout: default
+title: Title of your exercise (change)
+description: Short Description of exercise (change)
+---
+
 # Title (change)
 
 ##### Keywords

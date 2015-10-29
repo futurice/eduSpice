@@ -1,0 +1,127 @@
+---
+---
+html, body {
+    height: 100%;
+    min-height: 100%;
+    font-family:'Open Sans',sans-serif;
+    font-size: 16px;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    color: rgba(0,0,0,0.8);
+    margin: 0;
+}
+
+h1, h2, h3 {
+    color: #d78227;
+    font-weight: 300;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5.4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+@media (max-width: 768px) {
+    h1 {
+        margin-top: 6em;
+        font-size: 3em;
+        font-weight: normal;
+    }
+
+    h2 {
+     font-size: 2em;
+    }
+}
+
+
+header {
+    background-color: transparent;
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    padding: 4px;
+    height: 30px;
+}
+
+section {
+    margin: 0;
+    min-height: 70vh;
+    display: block;
+    padding: 10vh 0 30vh 0;
+}
+
+section:nth-child(odd) {
+    background: #f3f3f3;
+}
+
+.first {
+    background: transparent url("/assets/img/balloon_unsplash_austin_ban.jpg") center center no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    -webkit-filter: brightness(110%);
+    padding-top: 20vh;
+}
+
+.info-text {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.text-container {
+    min-width: 50vw;
+    max-width: 60vw;
+    margin: auto;
+}
+
+.quote {
+    font-size: 1.3em;
+    font-weight: 300;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.boxed {
+  padding: 20px;
+  background-color: #e5e5f2;
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.arrow-box {
+  h3 {
+    color: #d78227;
+    font-weight: bolder;
+  }
+
+  p {
+    color: #8e98a7;
+  }
+}
+
+.arrow-right {
+    float: right;
+    width: 0;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-left: 40px solid #8e98a8;
+    display: block;
+}
+
+.boxed:hover * {
+  color: #d78227;
+border-left-color: #d78227;
+}
+
+.chilihover:hover * {
+  color: #d78227;
+  border-left-color: #d78227;
+}

@@ -1,39 +1,36 @@
+---
+layout: default
+title: Path finding exercise
+description: In this exercise kids will learn to give exact orders while moving each others through the grid.
+---
+
 # Human as Computer - Learning to give exact orders
 
 ##### Keywords
 
-```
 instruction, order, command, exact, testing
-```
+
 ##### Related to Curriculum
 
-```
 Learning to give exact instructions and commands, Testing instructions and commands
-```
 
 ##### Prime Target Group
 
-```
 For elementary school, classes 2-4
-```
 
 ##### Required Equipment and Material
 
-```
 a grid made with tape or string and some obstacles (can be printed as well)
-```
 
 ##### Short Description
 
-```
 In this exercise kids will learn to give exact orders while moving each others through the grid.
-```
 
 ---
 
 ### Preparations
 
-  * Print the [empty grid](https://github.com/futurice/eduSpice/blob/master/example/empty_grid.pdf) for everybody
+  * Print the [empty grid](/example_old/empty_grid.pdf) for everybody
   * Print the [example grid](https://github.com/futurice/eduSpice/blob/master/example/example_grid.pdf) for everybody
   * Prepare grid in the class room floor with tape or string
   * Choose obstacles (they can be what ever that fit to the square of grid)
@@ -67,6 +64,7 @@ In this exercise kids will learn to give exact orders while moving each others t
 * How could the plan be made better? (could we use conditions?)
 
 ---
+
 ### Required materials or links
 
 * [empty grid](https://github.com/futurice/eduSpice/blob/master/example/empty_grid.pdf) for everybody
@@ -75,6 +73,7 @@ In this exercise kids will learn to give exact orders while moving each others t
 
 
 ---
+
 ### License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
