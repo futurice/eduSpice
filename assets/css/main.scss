@@ -59,7 +59,7 @@ section:nth-child(odd) {
 }
 
 .first {
-    background: transparent url("/assets/img/balloon_unsplash_austin_ban.jpg") center center no-repeat;
+    background: transparent url("{{ site.baseurl }}/assets/img/balloon_unsplash_austin_ban.jpg") center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
