@@ -1,5 +1,5 @@
 markdown: kramdown
-baseurl: "eduSpice/"
+baseurl: "/eduSpice/"
 sass:
      style: compressed
 gems:
