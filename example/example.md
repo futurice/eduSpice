@@ -6,25 +6,26 @@ description: In this exercise kids will learn to give exact orders while moving 
 
 # Human as Computer - Learning to give exact orders
 
-##### Keywords
-
-instruction, order, command, exact, testing
-
-##### Related to Curriculum
-
-Learning to give exact instructions and commands, Testing instructions and commands
-
-##### Prime Target Group
-
-For elementary school, classes 2-4
-
-##### Required Equipment and Material
-
-a grid made with tape or string and some obstacles (can be printed as well)
-
-##### Short Description
-
-In this exercise kids will learn to give exact orders while moving each others through the grid.
+>##### Keywords
+>
+>instruction, order, command, exact, testing
+>
+>##### Related to Curriculum
+>
+>Learning to give exact instructions and commands, Testing instructions >and commands
+>
+>##### Prime Target Group
+>
+>For elementary school, classes 2-4
+>
+>##### Required Equipment and Material
+>
+>a grid made with tape or string and some obstacles (can be printed as >well)
+>
+>##### Short Description
+>
+>In this exercise kids will learn to give exact orders while moving each >others through the grid.
+>
 
 ---
 
@@ -46,18 +47,18 @@ In this exercise kids will learn to give exact orders while moving each others t
 * Instruct them to write or draw instructions to the paper (if drawn they can do it with arrows for example)
 * Instructions They can use are: Move forward, Turn left or Turn Right
 
-### Testing the route
+#### Testing the route
 
 * After planning the route let students try their route in the grid made to class floor
 * Alternatively they can draw the route with pen to their own paper or on a blank example grid
 * If they find bugs they can fix them and try again
 
-### Designing new grids
+#### Designing new grids
 
 * After Testing their route students can design new places for obstacles and test their route plan again
 * Usually after this the old route doesn't work anymore, so they have to plan new one
 
-### Questions to think
+#### Questions to think
 
 * Is there impossible grids?
 * Is some plan invincible?

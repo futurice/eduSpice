@@ -41,11 +41,11 @@ h2 {
     }
 }
 
-
 header {
     background-color: transparent;
     position: fixed;
     z-index: 3;
+    top: 4px;
     width: 100%;
     padding: 4px;
     height: 30px;
@@ -122,7 +122,7 @@ section:nth-child(odd) {
 
 .boxed:hover * {
   color: #d78227;
-border-left-color: #d78227;
+  border-left-color: #d78227;
 }
 
 .chilihover:hover * {
@@ -134,11 +134,24 @@ border-left-color: #d78227;
 // Exercise specific styles
 //
 
+.exercise {
+    background-color: #f3f3f3;
+}
+
 .exercise-container {
-    padding: 40px 30px;
+    background-color: #ffffff;
+    width: 60vw;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    padding: 40px 50px;
 
     hr {
         display: none;
+    }
+
+    h1 {
+        padding-bottom: 40px;
     }
 
     h3 {
@@ -146,12 +159,37 @@ border-left-color: #d78227;
         font-weight: 300;
         font-size: 2em;
         text-align: left;
+        padding: 30px 20px;
+    }
+
+    h4 {
+        color: #d78227;
+        font-size: 1em;
+        text-align: left;
+        padding: 10px 20px;
     }
 
     h5 {
         color: #d78227;
         font-weight: 300;
-        font-size: 1.5em;
+        font-size: 1.2em;
+    }
+
+    blockquote {
+        background-color: #f3f3f3;
+        border-left-color: #d78227;
+        padding: 30px;
+
+        h5 {
+            color: #d78227;
+            font-weight: 300;
+            font-size: 1.2em;
+        }
+
+        p {
+            font-size: 0.8em;
+        }
     }
 }
+
 

@@ -6,34 +6,30 @@ description: Short Description of exercise (change)
 
 # Title (change)
 
-##### Keywords
-
-```
-List keywords and concepts here. Separate them with comma.
-```
-##### Related to Curriculum
-
-```
-List the topics on curriculum this is related to. You can see our pre defined [topic list](https://github.com/futurice/eduSpice/blob/master/topic_list.md). If uncertain use your best guess. Separate them with comma.
-```
-
-##### Prime Target Group
-
-```
-For elementary or secondary school? Or for someone else? Please use your best guess if you don't know.
-```
-
-##### Required Equipment and Material
-
-```
-List shortly here what is needed for example laptop and browser.
-```
-
-##### Short Description
-
-```
-Describe here what you exercise or idea is all about. For example this exercise will introduce the concept of function through programming.
-```
+> ##### Keywords
+>
+> List keywords and concepts here. Separate them with comma.
+>
+>##### Related to Curriculum
+>
+> List the topics on curriculum this is related to. You can see our pre defined [topic list](https://github.com/futurice/eduSpice/blob/master/topic_list.md). If uncertain use your best guess. Separate them with comma.
+>
+>
+>##### Prime Target Group
+>
+> For elementary or secondary school? Or for someone else? Please use your best guess if you don't know.
+>
+>
+>##### Required Equipment and Material
+>
+>
+> List shortly here what is needed for example laptop and browser.
+>
+>
+>##### Short Description
+>
+> Describe here what you exercise or idea is all about. For example this exercise will introduce the concept of function through programming.
+>
 
 ---
 
