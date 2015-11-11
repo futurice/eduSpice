@@ -17,6 +17,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .h1-header {
     font-size: 5.4em;
 }
@@ -77,13 +81,16 @@ section:nth-child(odd) {
     font-size: 1.2em;
 }
 
-ul {
-    padding: 0;
+.link-container {
+    ul {
+       padding: 0;
 
-    li {
-        list-style: none;
+        li {
+            list-style: none;
+        }
     }
 }
+
 
 .text-container {
     min-width: 50vw;
@@ -149,6 +156,7 @@ ul {
 .exercise-container {
     background-color: #ffffff;
     width: 60vw;
+    min-width: 80%;
     margin: auto;
     margin-top: 50px;
     margin-bottom: 70px;

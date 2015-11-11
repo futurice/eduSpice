@@ -12,7 +12,7 @@ description: In this exercise kids will learn to give exact orders while moving 
 >
 >##### Related to Curriculum
 >
->Learning to give exact instructions and commands, Testing instructions >and commands
+>Learning to give exact instructions and commands, Testing instructions and commands
 >
 >##### Prime Target Group
 >
@@ -20,7 +20,7 @@ description: In this exercise kids will learn to give exact orders while moving 
 >
 >##### Required Equipment and Material
 >
->a grid made with tape or string and some obstacles (can be printed as >well)
+>a grid made with tape or string and some obstacles (can be printed as well)
 >
 >##### Short Description
 >
