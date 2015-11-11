@@ -77,6 +77,14 @@ section:nth-child(odd) {
     font-size: 1.2em;
 }
 
+ul {
+    padding: 0;
+
+    li {
+        list-style: none;
+    }
+}
+
 .text-container {
     min-width: 50vw;
     max-width: 60vw;
