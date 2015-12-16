@@ -145,6 +145,24 @@ section:nth-child(odd) {
   border-left-color: #d78227;
 }
 
+iframe {
+    height: 530px;
+    width: 735px;
+    margin: auto;
+    display: block;
+
+    @media (max-width: 768px) {
+        height: 530px;
+        width: 500px;
+        overflow: hidden;
+    }
+
+    @media (max-width: 500px) {
+        height: 656px;
+        width: 97%;
+    }
+}
+
 //
 // Exercise specific styles
 //
