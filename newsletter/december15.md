@@ -15,8 +15,6 @@ Tuottamiamme materiaaleja ja ideoita kootaan tänne:
 
 ## Koodiklubi
 
-![Oppilaiden ohjelmoimat spherot]({{site.baseurl}}/assets/img/three-spheros-track.gif)
-
 Vedimme syksyllä koodiklubia yläasteikäisille, jossa opetimme heille Python-ohjelmointikieltä matemaattisten konseptien kautta. Kerhossa käyttämämme oppimateriaali löytyy alla olevasta linkistä ja on myös vapaasti käytettävissä.
 
 [https://codeclub.firebaseapp.com/](https://codeclub.firebaseapp.com/)
