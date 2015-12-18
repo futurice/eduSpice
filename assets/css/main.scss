@@ -163,15 +163,83 @@ iframe {
     }
 }
 
-//
-// Exercise specific styles
-//
 
-.exercise {
+// Exercise and Newsletter specific styles
+
+.exercise, .newsletter {
     background-color: #f3f3f3;
 }
 
-.exercise-container {
+.newsletter {
+    p {
+        img {
+            width: 75%;
+            margin: auto;
+            display: block;
+            padding: 10px;
+        }
+    }
+
+    .news-container {
+        .title-header {
+            background: url("{{ site.baseurl }}/assets/img/header.png") no-repeat;
+            height: 150px;
+
+            h1 {
+                text-align: right;
+                padding: 40px;
+            }
+        }
+
+        .title-footer {
+            background: url("{{ site.baseurl }}/assets/img/footer.png") no-repeat;
+            height: 100px;
+            margin-top: 50px;
+        }
+
+        h1 {
+            padding-bottom: 0;
+            margin-top: 35px;
+            margin-bottom: 35px;
+        }
+
+        h2 {
+          font-size: 2em;
+          text-align: left;
+          margin-top: 80px;
+        }
+
+        p {
+            margin: 15px 0;
+            padding: 0 20px;
+        }
+
+        hr {
+            margin: 20px;
+        }
+
+        @media(max-width: 770px) {
+            .title-header {
+                h1 {
+                    font-size: 1.5em;
+                    text-align: right;
+                    padding: 20px;
+                }
+            }
+            h1 {
+                font-size: 2em;
+            }
+            p {
+                padding: 0;
+            }
+        }
+    }
+}
+
+
+
+
+.exercise-container, .news-container {
     background-color: #ffffff;
     width: 60vw;
     min-width: 80%;
@@ -225,5 +293,6 @@ iframe {
         }
     }
 }
+
 
 

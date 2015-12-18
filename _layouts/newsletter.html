@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% include head.html %}
+    </head>
+
+    <body class="newsletter">
+      {% include navbar.html %}
+      <div class="news-container">
+        <div class="title-header">
+            <h1>{{ page.title }}</h1>
+        </div>
+        {{ content }}
+        <div class="title-footer"></div>
+      </div>
+    </body>
+</html>
