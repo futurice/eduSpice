@@ -236,9 +236,6 @@ iframe {
     }
 }
 
-
-
-
 .exercise-container, .news-container {
     background-color: #ffffff;
     width: 60vw;
@@ -247,6 +244,13 @@ iframe {
     margin-top: 50px;
     margin-bottom: 70px;
     padding: 40px 50px;
+
+    @media(max-width: 770px) {
+        min-width: 100%;
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 10px 20px;
+    }
 
     hr {
         display: none;
