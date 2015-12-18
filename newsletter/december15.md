@@ -15,7 +15,7 @@ Tuottamiamme materiaaleja ja ideoita kootaan tänne:
 
 ## Koodiklubi
 
-![Koodiklubi]({{site.baseurl}}/assets/img/codeclub.JPG)
+![Oppilaiden ohjelmoimat spherot]({{site.baseurl}}/assets/img/three-spheros-track.gif)
 
 Vedimme syksyllä koodiklubia yläasteikäisille, jossa opetimme heille Python-ohjelmointikieltä matemaattisten konseptien kautta. Kerhossa käyttämämme oppimateriaali löytyy alla olevasta linkistä ja on myös vapaasti käytettävissä.
 
@@ -23,7 +23,10 @@ Vedimme syksyllä koodiklubia yläasteikäisille, jossa opetimme heille Python-o
 
 Opiskelua elävöitetään laatimalla harjoituksia, joissa koodauksen tuotos piirtää jotain tai ohjaa robottia. Geometrian, trigonometrian tai jopa avaruusgeometrian opiskeluun löytyy kummasti innostusta, kun sitä tarvitaan rullaavan tai lentävän esineen pilotointiin.
 
+![Koodiklubi]({{site.baseurl}}/assets/img/codeclub.JPG)
+
 Video oppilaan tekemästä harjoitustyöstä, missä ohjelmallisesti piirretään matemaattisia kaavoja käyttäen monimutkainen kuvio:
+![Oppilaan tekemä kuvio]({{site.baseurl}}/assets/img/codeclub_screen.gif)
 
 ## Koodikoulu
 
@@ -39,6 +42,8 @@ Olemme sopineet Tiedekeskus Heurekan kanssa koodikoulu-yhteistyöstä ensi vuode
 ## Mentorointi
 
 Työntekijöitämme kannustetaan valmentamaan peruskoulun opettajia ohjelmointiin ja digitaalisuuteen liittyen. Tuemme tätä vapaa-ajan aktiviteettia rahallisesti. Ensimmäinen kokeilu oli käynnissä tänä syksynä ja opettajat yhdessä mentorin kanssa loivat tehtäviä, joita koko koulu voi käyttää. Resurssimme ovat rajalliset, mutta mentorointia kaipaavien kannattaa ottaa meihin yhteyttä.
+
+![Chilicorn]({{site.baseurl}}/assets/img/chilicorn_no_text-256.png)
 
 ## Ota yhteyttä!
 

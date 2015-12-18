@@ -173,7 +173,8 @@ iframe {
 .newsletter {
     p {
         img {
-            width: 75%;
+            max-width: 75%;
+            max-height: 300px;
             margin: auto;
             display: block;
             padding: 10px;
