@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <script src="expect.js"></script>
+        <script src="mocha.js"></script>
+        <link href="mocha.css" rel="stylesheet" />
+    </head>
+
+    <body>
+        <div id="mocha"></div>
+
+        <script>
+            // This is the code
+
+            window.SantaClause = function() {
+                this.numberOfPresents = 5;
+
+                this.deliverPresent = function() {
+                    this.numberOfPresents -= 1;
+                };
+
+                this.deliverPresents = function(numberOfPresents) {
+                    for (var i = 0; i <= numberOfPresents; i += 1) {
+                        this.deliverPresent();
+                    }
+                };
+
+                this.packPresent = function() {
+                    this.numberOfPresents += 1;
+                };
+            };
+
+        </script>
+
+        <script>
+                mocha.setup('bdd');
+        </script>
+
+        <script>
+            // This is the test code
+
+            describe('SantaClause', function() {
+                var santa;
+
+                beforeEach(function() {
+                    santa = new SantaClause();
+                });
+
+                describe('deliverPresent', function() {
+                    it('should have one less present after it has delivered one', function() {
+                        santa.deliverPresent();
+                        expect(santa.numberOfPresents).to.eql(4);
+                    });
+                });
+
+                describe('deliverPresents', function() {
+                    it('should have 3 less presents after it has delivered 3', function() {
+                        santa.deliverPresents(3);
+                        expect(santa.numberOfPresents).to.eql(2);
+                    });
+                });
+            });
+        </script>
+
+        <script>
+            mocha.run();
+        </script>
+    </body>
+</html>
