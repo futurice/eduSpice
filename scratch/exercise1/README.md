@@ -1,7 +1,7 @@
 ---
 layout: exercise
 title: Scratch
-description: In this exercise teachers will get more familiar with Scratch and the possibliities it offers for teaching kids programming.
+description: In this exercise teachers will get more familiar with Scratch and the possibilities it offers for teaching kids programming.
 ---
 
 # First programs aka writing recipes
@@ -29,7 +29,7 @@ description: In this exercise teachers will get more familiar with Scratch and t
 >
 >##### Short Description
 >
-> In this exercise teachers will get more familiar with Scratch and the possibliities it offers for teaching kids programming.
+> In this exercise teachers will get more familiar with Scratch and the possibilities it offers for teaching kids programming.
 >
 
 ---
