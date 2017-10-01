@@ -21,7 +21,7 @@ title: EduSpice
     </div>
   <div class="row">
   {% for exercise in site.html_pages %}
-    {% if {{exercise.url}} != "/index.html" and {{exercise.url}} != "/template.html" %}
+    {% if {{exercise.url}} != "/" and {{exercise.url}} != "/template.html" and {{exercise.layout}} != "newsletter" and {{exercise.url}} != "/topic_list.html" %}
         <div class="col-sm-8 col-sm-offset-2" style="z-index: 1; background-color: #f3f3f4;">
             <div class="row boxed chilihover">
                 <a href="{{ site.baseurl }}{{exercise.url}}">
